@@ -40,8 +40,8 @@ BSDTAR_PREBUILT = {
         "0075f7f3777c244b5e10e308ee646784977bbac68e0c0e1da291961581fcda17",
     ),
     "darwin_arm64": (
-        "https://github.com/aspect-build/bsdtar-prebuilt/releases/download/v3.7.4-2/tar_darwin_arm64",
-        "02c10e05562c21f3b03c6f919018424cf92e8494d61012c8ed02b2df986351c8",
+        "https://github.com/ewhauser/bazel-central-registry/releases/download/libarchive-0.0.1/tar_darwin_arm64",
+        "81d992eeefb519421dc18db63fce51f7fef7204b94e17e9b490af7699b565ff1",
     ),
     "linux_amd64": (
         "https://github.com/aspect-build/bsdtar-prebuilt/releases/download/v3.7.4-2/tar_linux_amd64",
